@@ -11,8 +11,14 @@ Python script designed to edit a database set up using initDB. The script uses a
 Python script that outputs a .csv file depending on the contents of a given database consistent with initDB. 
 The output file details the traffic observations between two given time stamps, where the traffic observations are summarised by the vehicles seen at a particular location are listed according to the number of occupants in the vehicle.
 
+#### task8_traffic_input.csv
+An example .csv file that task8_in is designed to anticipate
+
 #### task9_in.py
 Python script designed to edit a database set up using initDB. The script inserts additional entries to the 'sessions' table of the database, according to an input .csv file.
+
+#### task9_login_input.csv
+An example .csv file that task9_in is designed to anticipate
 
 #### task9_out.py
 Python script that outputs a .csv file depending on the contents of a given database consistent with initDB. 
